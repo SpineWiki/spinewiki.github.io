@@ -3,7 +3,7 @@ layout: post
 title: Tools for Retrospectives
 category : Tool
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Agile]
 ---
 {% include JB/setup %}

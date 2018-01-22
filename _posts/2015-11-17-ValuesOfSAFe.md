@@ -3,7 +3,7 @@ layout: post
 title: Values of SAFe
 category : Value
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [SAFe]
 ---
 {% include JB/setup %}

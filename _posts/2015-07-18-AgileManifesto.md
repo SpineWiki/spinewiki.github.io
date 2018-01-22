@@ -3,7 +3,7 @@ layout: post
 title: Agile Software Development, Manifesto for 
 category : Archetype
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Agile, Archetype]
 ---
 {% include JB/setup %}

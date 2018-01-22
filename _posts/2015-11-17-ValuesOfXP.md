@@ -3,7 +3,7 @@ layout: post
 title: Values of Extreme Programming
 category : Value
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [XP]
 ---
 {% include JB/setup %}
@@ -11,7 +11,7 @@ tags: [XP]
 * [Simplicity](/value/Simplicity)
 * [Communication](/value/communication)
 * [Feedback](/value/Feedback)
-* [Respect](/value/respect)
+* [Respect](/value/Respect)
 * [Courage](/value/Courage)
 
 

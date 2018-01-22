@@ -4,7 +4,7 @@ title: Visualize and limit WIP, reduce batch sizes, and manage queue lengths
 category : Principle
 subpage: 1
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Flow, SAFe, Principle]
 ---
 {% include JB/setup %}

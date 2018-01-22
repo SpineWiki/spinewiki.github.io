@@ -4,7 +4,7 @@ title: Base Milestones On Objective Evaluation Of Working Systems
 category : Principle
 subpage: 1
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [SAFe, Principle]
 ---
 {% include JB/setup %}

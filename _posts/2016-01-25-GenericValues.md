@@ -3,7 +3,7 @@ layout: post
 title: Generic List of Values
 category : Value
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: []
 ---
 {% include JB/setup %}

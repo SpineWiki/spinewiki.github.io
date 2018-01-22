@@ -3,7 +3,7 @@ layout: post
 title: Can I contribute to Spine Wiki?
 category : FAQ
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [FAQ]
 ---
 {% include JB/setup %}

@@ -3,7 +3,7 @@ layout: post
 title: How to Contribution to spine.wiki
 category : Explanation
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Meta]
 ---
 {% include JB/setup %}

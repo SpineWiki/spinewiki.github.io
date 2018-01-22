@@ -4,7 +4,7 @@ title: Code Quality
 category : Value
 subpage: 1
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [SAFe, Value]
 ---
 {% include JB/setup %}

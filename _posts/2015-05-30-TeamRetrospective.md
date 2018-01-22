@@ -3,7 +3,7 @@ layout: post
 title: Team Retrospective
 category : Practice
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Scrum, Practice]
 ---
 {% include JB/setup %}

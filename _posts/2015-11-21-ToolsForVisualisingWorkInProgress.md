@@ -3,7 +3,7 @@ layout: post
 title: Tools for Visualising Work In Progress
 category : Tool
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Tool]
 ---
 {% include JB/setup %}

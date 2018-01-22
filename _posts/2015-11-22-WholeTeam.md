@@ -4,7 +4,7 @@ title: Whole Team
 category : Practice
 subpage: 1
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [XP, Practice]
 ---
 {% include JB/setup %}

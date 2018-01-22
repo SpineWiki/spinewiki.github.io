@@ -3,7 +3,7 @@ layout: post
 title: Resource vs Flow Optimisation
 category : Principle
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Flow, Principle]
 ---
 {% include JB/setup %}

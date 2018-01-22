@@ -3,7 +3,7 @@ layout: post
 title: Principles of SAFe
 category : Principle
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [SAFe]
 ---
 {% include JB/setup %}

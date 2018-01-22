@@ -3,7 +3,7 @@ layout: post
 title: Practices of Extreme Programming
 category : Practice
 tagline: ""
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [XP]
 ---
 {% include JB/setup %}

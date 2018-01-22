@@ -4,7 +4,7 @@ title: Team Cognitive Load Tracker
 category : Tool
 tagline: ""
 subpage: 1
-author: Kevin Trethewey
+author: <a href="http://www.twitter.com/kevintrethewey">Kevin Trethewey</a>
 tags: [Tool]
 ---
 {% include JB/setup %}
