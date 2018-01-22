@@ -8,7 +8,7 @@ order : 6
 ---
 {% include JB/setup %}
 
-{% assign posts_collate = (site.posts | where: "category" , "Archetype") %}
+{% assign posts_collate = site.posts | where: "category" , "Archetype" %}
 {% include JB/posts_collate %}
 
 

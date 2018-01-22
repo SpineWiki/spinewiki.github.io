@@ -8,7 +8,7 @@ order : 5
 ---
 {% include JB/setup %}
 
-{% assign posts_collate = (site.posts | where: "category" , "Tool") %}
+{% assign posts_collate = site.posts | where: "category" , "Tool" %}
 {% include JB/posts_collate %}
 
 
