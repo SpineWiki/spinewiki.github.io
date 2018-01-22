@@ -33,6 +33,6 @@ That is, while there is value in the items on the right, we value the items on t
 * The best architectures, requirements, and designs emerge from self-organizing teams.
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-For more information, review the [Agile archetype](/archetype/AgileManifesto/).
+For more information, review the [Agile archetype](/archetype/AgileManifesto).
 
 *(Source: [agilemanifesto.org](http://agilemanifesto.org/))*

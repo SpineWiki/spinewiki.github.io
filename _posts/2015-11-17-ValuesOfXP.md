@@ -9,10 +9,10 @@ tags: [XP]
 {% include JB/setup %}
 
 * [Simplicity](/value/Simplicity)
-* [Communication](/value/Communication)
+* [Communication](/value/communication)
 * [Feedback](/value/Feedback)
 * [Respect](/value/Respect)
 * [Courage](/value/Courage)
 
 
-For more information, review the [XP archetype](/archetype/XP/).
+For more information, review the [XP archetype](/archetype/XP).

@@ -17,6 +17,6 @@ XP planning addresses two key questions in software development: predicting what
 
 These planning steps are very simple, yet they provide very good information and excellent steering control in the hands of the Customer. Every couple of weeks, the amount of progress is entirely visible. There is no “ninety percent done” in XP: a feature story was completed, or it was not. This focus on visibility results in a nice little paradox: on the one hand, with so much visibility, the Customer is in a position to cancel the project if progress is not sufficient. On the other hand, progress is so visible, and the ability to decide what will be done next is so complete, that XP projects tend to deliver more of what is needed, with less pressure and stress.
 
-For more information, review the [XP archetype](/archetype/XP/).
+For more information, review the [XP archetype](/archetype/XP).
 
 *(Source: [Ron Jeffries](http://ronjeffries.com/xprog/what-is-extreme-programming))*

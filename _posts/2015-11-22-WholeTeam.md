@@ -15,6 +15,6 @@ This team must include a business representative – the “Customer” – who 
 
 None of these roles is necessarily the exclusive property of just one individual: Everyone on an XP team contributes in any way that they can. The best teams have no specialists, only general contributors with special skills.
 
-For more information, review the [XP archetype](/archetype/XP/).
+For more information, review the [XP archetype](/archetype/XP).
 
 *(Source: [Ron Jeffries](http://ronjeffries.com/xprog/what-is-extreme-programming))*

@@ -15,6 +15,6 @@ The refactoring process focuses on removal of duplication (a sure sign of poor d
 
 Refactoring is, of course, strongly supported by comprehensive testing to be sure that as the design evolves, nothing is broken. Thus the [customer tests](/practice/CustomerTests) and [programmer tests](/practice/TDD) are a critical enabling factor. The XP practices support each other: they are stronger together than separately.
 
-For more information, review the [XP archetype](/archetype/XP/).
+For more information, review the [XP archetype](/archetype/XP).
 
 *(Source: [Ron Jeffries](http://ronjeffries.com/xprog/what-is-extreme-programming))*

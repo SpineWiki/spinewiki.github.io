@@ -14,4 +14,4 @@ tags: [Scrum]
 * [Commitment](/value/Commitment)
 * [Respect](/value/Respect)
 
-For more information, review the [Scrum archetype](/archetype/Scrum/).
+For more information, review the [Scrum archetype](/archetype/Scrum).

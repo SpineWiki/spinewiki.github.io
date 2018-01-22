@@ -18,5 +18,5 @@ tags: [SAFe]
 1. [Unlock the intrinsic motivation of knowledge workers](/principle/UnlockTheIntrinsicMotivationOfKnowledgeWorkers)
 1. [Decentralize decision-making](/principle/DecentralizeDecisionMaking)
 
-For more information, review the [SAFe archetype](/archetype/SAFe/).
+For more information, review the [SAFe archetype](/archetype/SAFe).
 

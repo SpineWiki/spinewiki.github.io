@@ -9,7 +9,7 @@ tags: [Flow, SAFe, Principle]
 ---
 {% include JB/setup %}
 
-This is the seventh [Principle](/principles.html) of [SAFe](/archetype/SAFe/).
+This is the seventh [Principle](/principles.html) of [SAFe](/archetype/SAFe).
 
 [More info here.](http://scaledagileframework.com/apply-cadence-synchronize-with-cross-domain-planning/)
 

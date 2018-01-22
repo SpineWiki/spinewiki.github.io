@@ -9,7 +9,7 @@ tags: [SAFe, Principle]
 ---
 {% include JB/setup %}
 
-This is the fourth [Principle](/principles.html) of [SAFe](/archetype/SAFe/).
+This is the fourth [Principle](/principles.html) of [SAFe](/archetype/SAFe).
 
 [More info here.](http://scaledagileframework.com/build-incrementally-with-fast-integrated-learning-cycles/)
 

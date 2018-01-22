@@ -9,4 +9,4 @@ tags: [Agile, Principle]
 ---
 {% include JB/setup %}
 
-This is the fourth [Principle](/principles.html) of the [Agile Manifesto](/archetype/AgileManifesto/).
+This is the fourth [Principle](/principles.html) of the [Agile Manifesto](/archetype/AgileManifesto).

@@ -29,6 +29,6 @@ tags: [XP]
 * Travel Light
 * Honest Measurement
 
-For more information, review the [XP archetype](/archetype/XP/).
+For more information, review the [XP archetype](/archetype/XP).
 
 *(Source: [Martin Fowler](http://martinfowler.com/bliki/PrinciplesOfXP.html))*

@@ -9,6 +9,6 @@ tags: [SAFe, Principle]
 ---
 {% include JB/setup %}
 
-This is the eighth [Principle](/principles.html) of [SAFe](/archetype/SAFe/).
+This is the eighth [Principle](/principles.html) of [SAFe](/archetype/SAFe).
 
 [More info here.](http://scaledagileframework.com/unlock-the-intrinsic-motivation-of-knowledge-workers/)

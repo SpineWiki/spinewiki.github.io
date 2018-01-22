@@ -61,4 +61,4 @@ Practices as presented in "eXtreme Programming Explained, 2nd Edition" by [Kent 
 * [Metaphor](/practice/Metaphor)
 * [Sustainable Pace](/practice/SustainablePace)
 
-*For more information, review the [XP archetype](/archetype/XP/).* 
+*For more information, review the [XP archetype](/archetype/XP).* 

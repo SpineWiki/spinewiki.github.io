@@ -13,6 +13,6 @@ On an Extreme Programming project, any pair of programmers can improve any code 
 
 Collective ownership could be a problem if people worked blindly on code they did not understand. XP avoids these problems through two key techniques: the [programmer tests](/practice/TDD) catch mistakes, and [pair programming](/practice/PairProgramming) means that the best way to work on unfamiliar code is to pair with the expert. In addition to ensuring good modifications when needed, this practice spreads knowledge throughout the team.
 
-For more information, review the [XP archetype](/archetype/XP/).
+For more information, review the [XP archetype](/archetype/XP).
 
 *(Source: [Ron Jeffries](http://ronjeffries.com/xprog/what-is-extreme-programming))*

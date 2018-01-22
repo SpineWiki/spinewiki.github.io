@@ -17,6 +17,6 @@ Second, XP teams release to their end users frequently as well. XP Web projects 
 
 It may seem impossible to create good versions this often, but XP teams all over are doing it all the time. See [Continuous Integration](/practice/ContinuousIntegration) for more on this, and note that these frequent releases are kept reliable by XP’s obsession with testing, as described here in [Customer Tests](/practice/CustomerTests) and [Test-Driven Development](/practice/TDD).
 
-For more information, review the [XP archetype](/archetype/XP/).
+For more information, review the [XP archetype](/archetype/XP).
 
 *(Source: [Ron Jeffries](http://ronjeffries.com/xprog/what-is-extreme-programming))*

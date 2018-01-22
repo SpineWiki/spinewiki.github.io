@@ -13,6 +13,6 @@ As part of presenting each desired feature, the XP Customer defines one or more 
 
 The best XP teams treat their customer tests the same way they do [programmer tests](/practice/TDD): once the test runs, the team keeps it running correctly thereafter. This means that the system only improves, always notching forward, never backsliding.
 
-For more information, review the [XP archetype](/archetype/XP/).
+For more information, review the [XP archetype](/archetype/XP).
 
 *(Source: [Ron Jeffries](http://ronjeffries.com/xprog/what-is-extreme-programming))*

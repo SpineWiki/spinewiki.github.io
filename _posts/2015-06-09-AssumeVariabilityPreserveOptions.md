@@ -9,7 +9,7 @@ tags: [Flow, SAFe, Principle]
 ---
 {% include JB/setup %}
 
-This is the third [Principle](/principles.html) of [SAFe](/archetype/SAFe/).
+This is the third [Principle](/principles.html) of [SAFe](/archetype/SAFe).
 
 [More info here.](http://scaledagileframework.com/assume-variability-preserve-options/)
 
