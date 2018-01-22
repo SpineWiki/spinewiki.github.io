@@ -27,7 +27,7 @@ tags: [LeSS]
 1. Avoiding False Dichotomies (explored in [Scaling Agile and Lean Development](http://www.amazon.com/Scaling-Lean-Agile-Development-Organizational/dp/0321480961))
 1. Be Agile Rather than Do Agile (explored in [Scaling Agile and Lean Development](http://www.amazon.com/Scaling-Lean-Agile-Development-Organizational/dp/0321480961))
 1. Total Quality Management/Control (an early and excellent book on this is [What is Total Quality Control: The Japanese Way](http://www.amazon.com/What-Total-Quality-Control-Japanese/dp/0139524339))
-1. [Deming’s 14 points](https://deming.org/management-system/fourteenpoints) (from [Out of the Crisis](http://www.amazon.com/Out-Crisis-W-Edwards-Deming/dp/0262541157))
+1. [Deming’s 14 points](https://deming.org/explore/fourteen-points) (from [Out of the Crisis](http://www.amazon.com/Out-Crisis-W-Edwards-Deming/dp/0262541157))
 
 For more information, review the [LeSS archetype](/archetype/LeSS).
 

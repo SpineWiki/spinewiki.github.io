@@ -29,7 +29,7 @@ The Agile movement is not anti-methodology, in fact, many of us want to restore 
 ##### Systemic Values
 The Manifesto for Agile Software Development does not explicitly state any [Values](/values.html) (by the Spine Model definition). 
 
-You can infer them though. For example the first Principle below could be interpreted as valuing People higher than Process, or perhaps Effectiveness higher than Efficiency. The second Principle could be abstracted to valuing [Feedback](/value/Feedback/) higher than Compliance. 
+You can infer them though. For example the first Principle below could be interpreted as valuing People higher than Process, or perhaps Effectiveness higher than Efficiency. The second Principle could be abstracted to valuing [Feedback](/value/Feedback) higher than Compliance. 
 
 ##### Personal Values
 [Robert Martin, from "History: The Agile Manifesto"](http://agilemanifesto.org/history.html)...

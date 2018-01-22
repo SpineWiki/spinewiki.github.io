@@ -9,4 +9,4 @@ tags: [Agile, Principle]
 ---
 {% include JB/setup %}
 
-This is the first [Principle](/principles.html) of the [Agile Manifesto](/prototype/AgileManifesto/).
+This is the first [Principle](/principles.html) of the [Agile Manifesto](/archetype/AgileManifesto).
