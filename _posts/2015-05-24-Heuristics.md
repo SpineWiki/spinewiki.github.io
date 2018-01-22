@@ -14,9 +14,6 @@ People tend to remember heuristic better when they come in threes. For example w
 
 * **Increase** [feedback](/value/Feedback)
 * **Decrease** [batch size](/principle/BatchSize) 
-* **Pull** [work through the system](/principle/pullworkthroughthesystem)
+* **Pull** [work through the system](/principle/PullWorkThroughTheSystem)
 
 This does not tell teams what [Practices](/practices.html) to use, however they can be measured against whether or not they are applying the [Principles](/principles.html) in a desirable way.
-
-See the [Path to Agile Mastery](/faq/PathToAgileMastery) FAQ article for more some more in depth exploration of when heuristics are appropriate.
-
