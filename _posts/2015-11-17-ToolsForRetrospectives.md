@@ -8,7 +8,7 @@ tags: [Agile]
 ---
 {% include JB/setup %}
 
-If you aren't sure what a retrospective is, start [here](/practice/TeamRetrospective/).
+If you aren't sure what a retrospective is, start [here](/practice/TeamRetrospective).
 
 1. [SMART Goals](www.hr.virginia.edu/uploads/documents/media/Writing_SMART_Goals.pdf)
 1. [Next Retro Topics list](NextRetroTopicsList)

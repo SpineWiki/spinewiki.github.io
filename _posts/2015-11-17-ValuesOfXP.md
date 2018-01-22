@@ -11,7 +11,7 @@ tags: [XP]
 * [Simplicity](/value/Simplicity)
 * [Communication](/value/communication)
 * [Feedback](/value/Feedback)
-* [Respect](/value/Respect)
+* [Respect](/value/respect)
 * [Courage](/value/Courage)
 
 

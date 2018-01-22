@@ -10,5 +10,5 @@ tags: [Tool]
 
 * Physical Board
 * Digital Board
-* [Team Cognitive Load Tracker](/Tool/CognitiveLoadTracker)
+* [Team Cognitive Load Tracker](/tool/CognitiveLoadTracker)
 

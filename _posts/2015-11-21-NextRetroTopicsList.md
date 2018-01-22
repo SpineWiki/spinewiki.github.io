@@ -10,7 +10,7 @@ tags: [Tool]
 {% include JB/setup %}
 
 ## What is it?  
-A visible list of all the things the team may want to dig deeper into during their next [Retrospective](/practice/TeamRetrospective/).
+A visible list of all the things the team may want to dig deeper into during their next [Retrospective](/practice/TeamRetrospective).
 
 ## Why use it?
 If a challenge or opportunity is uncovered around how the team gets the work done, individuals may feel they want to dig deeper into understanding it during the next Retro. There is a risk that you could forget what it was, or not spend enough time deliberating on it, so making it visible in the team space is a useful way of making sure it doesn't slip through.

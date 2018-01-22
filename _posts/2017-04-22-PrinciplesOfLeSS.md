@@ -29,6 +29,6 @@ tags: [LeSS]
 1. Total Quality Management/Control (an early and excellent book on this is [What is Total Quality Control: The Japanese Way](http://www.amazon.com/What-Total-Quality-Control-Japanese/dp/0139524339))
 1. [Deming’s 14 points](https://deming.org/management-system/fourteenpoints) (from [Out of the Crisis](http://www.amazon.com/Out-Crisis-W-Edwards-Deming/dp/0262541157))
 
-For more information, review the [LeSS archetype](/archetype/LeSS/).
+For more information, review the [LeSS archetype](/archetype/LeSS).
 
 *(Source: [Less.works](http://less.works/less/principles/index.html))*
