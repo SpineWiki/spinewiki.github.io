@@ -11,7 +11,7 @@ The Spine Model can be applied to any human system and the individuals in it. If
 ## What is the purpose of this wiki?
 When you create a Spine, instead of describing each item in detail you can just link to the relevant spine.wiki page.
 
-This wiki catalogs each level of the model and its various implementations in a way that creates an encyclopaedia that anyone can draw from and [contribute to](/explanation/Contribution).
+This wiki catalogs each level of the model and its various implementations in a way that creates an encyclopaedia from which you can learn and to which you can [contribute](/explanation/Contribution).
 
 ## How to contribute
 We welcome any contributions. See [the guidelines on how to contribute](/explanation/Contribution).
