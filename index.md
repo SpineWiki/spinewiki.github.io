@@ -5,6 +5,8 @@ tagline: a free Spine Model catalog to which anyone can contribute
 ---
 {% include JB/setup %}
 
+<meta http-equiv="refresh" content="5;url=http://spinemodel.info/" />
+
 ## New to the Spine Model?
 The Spine Model can be applied to any human system and the individuals in it. If you're not familiar with the it, we recommend you [learn the basic ideas behind the model first](http://spinemodel.info).
 
